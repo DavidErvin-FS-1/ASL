@@ -14,3 +14,7 @@ This repository contains a collection of Dockerfiles for exploring other program
 - [Python](./exploring_docker/python)
 - [Ruby](./exploring_docker/ruby)
 - [Rust](./exploring_docker/rust)
+
+## Video Showcase
+
+[Link to MS Stream video](https://fullsailedu-my.sharepoint.com/:v:/g/personal/dnervin_student_fullsail_edu/EQyk8G-PYJhMpvka7Sfx7N4BZejGxfz7DRkSgDuK6MH4TQ?e=tjngSo)
